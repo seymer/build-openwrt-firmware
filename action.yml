@@ -10,5 +10,3 @@ runs:
   steps:
     - run: bash build.sh ${{ inputs.config }}
       shell: bash
-permissions:
-  contents: write
