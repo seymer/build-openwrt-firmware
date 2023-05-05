@@ -12,7 +12,6 @@ CONFIG_TARGET_ramips_mt7621_DEVICE_d-team_newifi-d2=y
 CONFIG_PACKAGE_luci-app-acme=y
 CONFIG_PACKAGE_luci-app-omcproxy=y
 CONFIG_PACKAGE_luci-app-sqm=y
-CONFIG_PACKAGE_luci-app-ssr-plus=y
 CONFIG_PACKAGE_acme-dnsapi=y
 
 ## USB Storage
